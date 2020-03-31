@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lab Contact Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-31 16:52+0200\n"
+"PO-Revision-Date: 2020-03-31 14:56+0000\n"
+"Last-Translator: admin <labarta31@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: includes/admin.php:7
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: includes/admin.php:16
+msgid "Lab Contact Form"
+msgstr "Lab Contact Form"
+
+#: includes/admin.php:17
+msgid "Settings :"
+msgstr "Ajustes :"
+
+#: includes/admin.php:20
+msgid "Enter your email address."
+msgstr "Introduce tu email."
+
+#: includes/admin.php:21
+msgid "The messages from the contact form will be sent to this e-mail"
+msgstr ""
+"Los mensajes del formulario de contacto se enviarán a este correo "
+"electrónico."
+
+#: includes/admin.php:22
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: includes/admin.php:26
+msgid "Update Options"
+msgstr "Actualizar opciones"
+
+#: includes/admin.php:29
+msgid ""
+"To use the contact from simply insert this shortcode in your post or page:"
+msgstr ""
+"Para usar el formulario de contacto simplemente inserta este shortcode en "
+"una entrada o página:"
+
+#: includes/core.php:9
+msgid "Name * : "
+msgstr "Nombre * : "
+
+#: includes/core.php:13
+msgid "E-mail * :  "
+msgstr "E-mail * :  "
+
+#: includes/core.php:18
+msgid "Subject : "
+msgstr "Asunto :"
+
+#: includes/core.php:21
+msgid "Message * : "
+msgstr "Mensaje * : "
+
+#: includes/core.php:27
+msgid ""
+" I consent to having this website collect my personal data via this form."
+msgstr ""
+"Consiento que este sitio web recopile mis datos personales a través de este "
+"formulario."
+
+#: includes/core.php:29
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/core.php:49
+msgid "* Name is required."
+msgstr "* Nombre requerido."
+
+#: includes/core.php:56
+msgid "* E-mail is required."
+msgstr "* E-mail requerido."
+
+#: includes/core.php:61
+msgid "* Invalid e-mail format."
+msgstr "* Formato de e-mail no válido."
+
+#: includes/core.php:73
+msgid "* Message is required."
+msgstr "* Mensaje requerido."
+
+#: includes/core.php:91
+msgid "Thanks for the message, we will contact you shortly."
+msgstr "Gracias por el mensaje, te contáctaremos a la mayor brevedad posible."
+
+#: includes/core.php:99
+msgid "An unexpected error occurred! Please try again or send an e-mail to "
+msgstr ""
+"¡Ocurrió un error inesperado! Por favor intenta nuevamente o envía un correo "
+"electrónico a : "
